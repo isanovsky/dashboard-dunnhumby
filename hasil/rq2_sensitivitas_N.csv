@@ -1,0 +1,7 @@
+,N = 4,N = 8,N = 12
+item baru,675.276,423.383,304.982
+rumah tangga,2.367,2.273,2.183
+pola panjang 2,35.344,25.826,17.150
+pola searah,34,83,2
+Jaccard top-10 vs N = 8,"0,00","1,00","0,00"
+top-20 dengan A di 10 terpopuler,16 dari 20,16 dari 20,0 dari 2
